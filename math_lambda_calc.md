@@ -1,0 +1,1 @@
+this is a note about mathematics and lambda calculus, that i have been studying.
